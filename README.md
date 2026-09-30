@@ -1,3 +1,5 @@
+## This is For mobile Version of Rust not PC Version ##
+
 ## How to use
 
 1. Pick the item from the dropdown
